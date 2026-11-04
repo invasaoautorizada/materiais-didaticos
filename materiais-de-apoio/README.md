@@ -12,4 +12,7 @@ e outros recursos de apoio.
 
 Material desenvolvido por Marcos C. da Fonseca.
 
-Invasão Autorizada
+**Invasão Autorizada**
+Redes • Segurança • Forense
+
+https://invasaoautorizada.com
