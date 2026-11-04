@@ -1,8 +1,10 @@
-# Invasão Autorizada — Materiais Didáticos
+# Invasão Autorizada 
 
-**Redes • Segurança • Forense**
+Conhecimento, Tecnologia e Investigação
 
-Bem-vindo à biblioteca de materiais didáticos do Invasão Autorizada.
+Produções educacionais e técnicas desenvolvidas pelo Invasão Autorizada, reunindo materiais de estudo, publicações, guias, exercícios e conteúdos de apoio.
+
+Bem-vindo à biblioteca do Invasão Autorizada.
 
 Este repositório reúne conteúdos educacionais
 desenvolvidos para apoiar estudantes, professores
@@ -36,7 +38,6 @@ Não é necessário possuir uma conta no GitHub
 para acessar os materiais públicos.
 
 ## © Autoria
-
 Material desenvolvido por Marcos C. da Fonseca.
 
 **Invasão Autorizada**
