@@ -16,12 +16,11 @@ Os materiais serão organizados por áreas e temas,
 permitindo o acesso a diferentes conteúdos
 educacionais.
 
-- Apostilas e materiais de estudo
-- E-books e guias
-- Apresentações
-- Exercícios e atividades
-- Roteiros de aulas
-- Materiais de apoio
+- Materiais de estudo
+- Laboratórios
+- Scripts
+- Ferramentas
+- Publicações Técnicas
 
 ## 📖 Organização
 
