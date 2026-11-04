@@ -6,9 +6,7 @@ Produções educacionais e técnicas desenvolvidas pelo Invasão Autorizada, reu
 
 Bem-vindo à biblioteca do Invasão Autorizada.
 
-Este repositório reúne conteúdos educacionais
-desenvolvidos para apoiar estudantes, professores
-e profissionais de tecnologia.
+Este repositório reúne materiais educacionais e recursos de aprendizagem desenvolvidos pelo Invasão Autorizada, destinados a estudantes, professores e profissionais de tecnologia.
 
 ## 📚 Conteúdos
 
