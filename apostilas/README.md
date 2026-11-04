@@ -11,4 +11,7 @@ tutoriais e materiais de estudo em diferentes formatos.
 
 Material desenvolvido por Marcos C. da Fonseca.
 
-Invasão Autorizada
+**Invasão Autorizada**
+Redes • Segurança • Forense
+
+https://invasaoautorizada.com
