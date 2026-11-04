@@ -20,4 +20,7 @@ adquiridos nos estudos.
 
 Material desenvolvido por Marcos C. da Fonseca.
 
-Invasão Autorizada
+**Invasão Autorizada**
+Redes • Segurança • Forense
+
+https://invasaoautorizada.com
